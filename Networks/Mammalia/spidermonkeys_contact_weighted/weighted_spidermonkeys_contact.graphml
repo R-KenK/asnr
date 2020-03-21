@@ -184,9 +184,6 @@
     <edge source="Vn" target="Vt">
       <data key="d0">17</data>
     </edge>
-    <edge source="Vt" target="Vt">
-      <data key="d0">6</data>
-    </edge>
     <edge source="Vt" target="Ku">
       <data key="d0">2</data>
     </edge>
