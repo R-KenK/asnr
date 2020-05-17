@@ -127,7 +127,7 @@
     <edge source="Ko" target="Nw">
       <data key="d0">1</data>
     </edge>
-    <edge source="Vi" target="Vi">
+    <edge source="Vi" target="Ki">
       <data key="d0">16</data>
     </edge>
     <edge source="Vi" target="Db">
